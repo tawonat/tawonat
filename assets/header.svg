@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Zanga — Código começa no problema.</title>
+  <desc id="desc">Cabeçalho em azul escuro e ciano. Software, automação e IA aplicada. Entender, construir e validar.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#203046" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <clipPath id="bounds"><rect x="1" y="1" width="1598" height="518" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1600" height="520" fill="#0b1320"/>
+    <rect x="1000" width="600" height="520" fill="url(#grid)"/>
+    <path d="M 970 0 V 84 L 1008 122 V 412 L 1085 489 V 520" stroke="#263d56" stroke-width="2" fill="none"/>
+    <path d="M 0 478 H 910 L 952 520" stroke="#263d56" stroke-width="2" fill="none"/>
+    <path d="M 1580 35 H 1520 V 80" stroke="#5be7ed" stroke-width="2" fill="none" opacity="0.55"/>
+    <rect x="68" y="61" width="7" height="20" rx="2" fill="#5be7ed"/>
+    <text x="91" y="78" fill="#a8bacf" font-family="DejaVu Sans Mono, monospace" font-size="20" letter-spacing="2">SOFTWARE / AUTOMAÇÃO / IA APLICADA</text>
+    <text x="61" y="255" fill="#edf4fc" font-family="DejaVu Sans, sans-serif" font-weight="bold" font-size="145" letter-spacing="-7">ZANGA<tspan fill="#5be7ed">.</tspan></text>
+    <text x="71" y="333" fill="#edf4fc" font-family="DejaVu Sans, sans-serif" font-size="47" letter-spacing="-1">Código começa no problema.</text>
+    <text x="74" y="393" fill="#91a5bd" font-family="DejaVu Sans, sans-serif" font-size="25">Backend, dados e processos que precisam funcionar.</text>
+    <text x="75" y="451" fill="#5be7ed" font-family="DejaVu Sans Mono, monospace" font-size="17" letter-spacing="1.5">DO DOCUMENTO AO DADO. DO PAPEL AO SISTEMA.</text>
+    <rect x="1070" y="112" width="442" height="315" rx="16" fill="#101c2c" stroke="#2b435d" stroke-width="2"/>
+    <path d="M 1070 162 H 1512" stroke="#2b435d" stroke-width="2"/>
+    <circle cx="1099" cy="137" r="5" fill="#5be7ed"/>
+    <text x="1120" y="144" fill="#a8bacf" font-family="DejaVu Sans Mono, monospace" font-size="17">COM CONTEXTO</text>
+    <text x="1100" y="224" fill="#5be7ed" font-family="DejaVu Sans Mono, monospace" font-size="22">01</text>
+    <text x="1150" y="224" fill="#e2edf8" font-family="DejaVu Sans Mono, monospace" font-size="26">entender</text>
+    <text x="1150" y="252" fill="#8b9fb8" font-family="DejaVu Sans, sans-serif" font-size="17">o processo e as restrições</text>
+    <text x="1100" y="296" fill="#5be7ed" font-family="DejaVu Sans Mono, monospace" font-size="22">02</text>
+    <text x="1150" y="296" fill="#e2edf8" font-family="DejaVu Sans Mono, monospace" font-size="26">construir</text>
+    <text x="1150" y="324" fill="#8b9fb8" font-family="DejaVu Sans, sans-serif" font-size="17">a solução e as integrações</text>
+    <text x="1100" y="368" fill="#5be7ed" font-family="DejaVu Sans Mono, monospace" font-size="22">03</text>
+    <text x="1150" y="368" fill="#e2edf8" font-family="DejaVu Sans Mono, monospace" font-size="26">validar</text>
+    <text x="1150" y="396" fill="#8b9fb8" font-family="DejaVu Sans, sans-serif" font-size="17">o comportamento na prática</text>
+  </g>
+  <rect x="1" y="1" width="1598" height="518" rx="24" fill="none" stroke="#263d56" stroke-width="2"/>
+</svg>
