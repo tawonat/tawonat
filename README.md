@@ -13,13 +13,13 @@ Construo aplicações que conectam **documentos, processos industriais e dados**
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🧾 NFreader</h3>
+<h3> NFreader</h3>
 <p>Leitura fiscal com IA e saída estruturada em Excel.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>Next.js</code></p>
 <sub>Validação para implantação</sub>
 </td>
 <td width="50%" valign="top">
-<h3>🏭 SIGO</h3>
+<h3> SIGO · Sistema Integrado de Gestão Operacional</h3>
 <p>Formulários e histórico operacional para a indústria.</p>
 <p><code>Next.js</code> <code>Power Apps</code></p>
 <sub>Piloto em desenvolvimento</sub>
@@ -27,13 +27,13 @@ Construo aplicações que conectam **documentos, processos industriais e dados**
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🧠 ZDALL</h3>
+<h3> ZDALL</h3>
 <p>IA local para consulta a manuais de manutenção.</p>
 <p><code>Node.js</code> <code>SQLite</code> <code>Ollama</code></p>
 <sub>Responsável pelo backend</sub>
 </td>
 <td width="50%" valign="top">
-<h3>🌱 PeanuTec V2</h3>
+<h3> PeanuTec V2</h3>
 <p>Aplicação agro: autenticação, integrações e validação.</p>
 <p><code>Next.js</code> <code>Prisma</code> <code>FastAPI</code></p>
 <sub>Manutenção e evolução técnica</sub>
@@ -41,7 +41,7 @@ Construo aplicações que conectam **documentos, processos industriais e dados**
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3>🏆 SmartPick · SENAI Desafio de Ideias 2026</h3>
+<h3> MARS · SENAI Desafio de Ideias 2026</h3>
 <p><strong>Projeto da equipe vencedora.</strong> MVP para simplificar requisições de materiais no almoxarifado. Atuei como Scrum Master e integrante do backend.</p>
 <p><code>Next.js</code> <code>Node.js</code> <code>MySQL</code></p>
 </td>
