@@ -4,11 +4,11 @@
 
 Construo aplicações que conectam **documentos, processos industriais e dados**. Meu foco está no backend e nas integrações: entender a operação, implementar a solução e validar seu comportamento.
 
-### ⚡ Stack em uso
+### Stack em uso
 
 ![TypeScript, Python, Node.js, Express, FastAPI, React, Next.js, MySQL, SQLite e Git.](assets/stack.png)
 
-### 🧩 Projetos em destaque
+### Projetos em destaque
 
 <table>
 <tr>
